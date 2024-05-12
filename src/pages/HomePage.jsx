@@ -1339,7 +1339,7 @@ const HomePage = () => {
         <hr />
         <div className='lg:px-20 py-5'>
           <div className='px-5'>
-            <div className='flex bg-white items-center rounded-full lg:w-7/12 lg:w-5/12 justify-between p-1 lg:p-2 mx-auto mt-10'>
+            <div className='flex bg-white items-center rounded-full lg:w-5/12 justify-between p-1 lg:p-2 mx-auto mt-10'>
               <input
                 className='my-auto ml-5 text-gray-500 outline-none w-11/12'
                 placeholder='Check license number '
